@@ -46,6 +46,6 @@
 
 ### void defineFirst(T& data);
 * Defines the first element in the list
-* Used when adding a value to an empty list
+* Called to add a value to an empty list
 * Should only be used when the list is empty
 * O(1) time complexity - The operation does have any recurring operations that could be impacted by the size of the list
